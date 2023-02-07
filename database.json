@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "album": "Sincero",
+        "year": 2003 ,
+        "cancion" : "Sentada aqui en mi alma",
+        "imangen":" "
+    } ,
+     {
+        "id": 2,
+        "album": "Cautivo",
+        "year": 2005 ,
+        "cancion" : "No se por que",
+        "imangen":" "
+    },
+    {
+        "id": 3,
+        "album": "En todo estare ",
+        "year": 2014 ,
+        "cancion" : "Tu respiracion ",
+        "imangen":" "
+    }, 
+    {
+        "id": 4,
+        "album": "No hay imposibles",
+        "year": 2010 ,
+        "cancion" : "Me enamore de ti",
+        "imangen":" "
+    }, 
+    {
+        "id": 5,
+        "album": "De piel a piel" ,
+        "year": 2008 ,
+        "cancion" : "Tu pirata soy yo",
+        "imangen":" "
+    }
+] 
